@@ -349,6 +349,8 @@
     display: flex;
     align-items: center;
     cursor: pointer;
+    border:none;
+    background: none;
 }
 
 .step_details_btn_text{
